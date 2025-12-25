@@ -15,7 +15,7 @@ Terraform configuration for hosting a static portfolio website on AWS using S3, 
 
 <div align="center">
 
-![Portfolio Infrastructure Architecture](https://github.com/lightsspeed/Infra-Portfolio/blob/main/Assets/Infra-Portfolio.png)
+![Portfolio Infrastructure Architecture](https://github.com/lightsspeed/Infra-Portfolio/blob/main/Assets/Infra-Portfolio.png?v=2)
 
 *AWS static site hosting: S3 (private) + CloudFront CDN + Route53 custom domain + ACM HTTPS + CloudWatch monitoring*
 
