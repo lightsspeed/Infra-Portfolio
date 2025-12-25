@@ -13,7 +13,7 @@ Terraform configuration for hosting a static portfolio website on AWS using S3, 
 
 ## Architecture Diagram
 
-![Eraser Architecture](https://app.eraser.io/workspace/2VrC7NEA2vFpjzfCPrxQ?origin=share)
+https://app.eraser.io/workspace/2VrC7NEA2vFpjzfCPrxQ?origin=share
 
 ## Prerequisites
 
