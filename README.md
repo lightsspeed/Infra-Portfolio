@@ -11,6 +11,10 @@ Terraform configuration for hosting a static portfolio website on AWS using S3, 
 - **CloudWatch**: Monitoring and alarms
 - **CloudFront Functions**: Security headers and clean URLs
 
+## Architecture Diagram
+
+![Eraser Architecture](https://app.eraser.io/workspace/2VrC7NEA2vFpjzfCPrxQ?origin=share)
+
 ## Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads) >= 1.0
